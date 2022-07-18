@@ -38,7 +38,8 @@ https://hkpc-my.sharepoint.com/:f:/g/personal/sheldanchen_hkpc_org/EidJW0VXRvVOk
 ```
 Download chinese simplified dataset
 ```shell
-https://hkpc-my.sharepoint.com/:f:/g/personal/sheldanchen_hkpc_org/EkmKRlLvOzVKqGi1jFAeMsUBEt-5rDTCv1ZIFvnkp0wtxw?e=7w3O8n```
+https://hkpc-my.sharepoint.com/:f:/g/personal/sheldanchen_hkpc_org/EkmKRlLvOzVKqGi1jFAeMsUBEt-5rDTCv1ZIFvnkp0wtxw?e=7w3O8n
+```
 and put these two dataset folders under the root folder.
 
 To launch the control program:
