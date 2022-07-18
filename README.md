@@ -42,6 +42,32 @@ https://hkpc-my.sharepoint.com/:f:/g/personal/sheldanchen_hkpc_org/EkmKRlLvOzVKq
 ```
 and put these two dataset folders under the root folder.
 
+
+## Launch 
+cd to workspace
+```shell
+cd Path/to/ROS
+```
+then source:
+```shell
+source ./devel/setup.bash
+```
+Launch moveit! :
+```shell
+roslaunch panda_moveit_config franka_control.launch robot_ip:= @ur_franka_address load_gripper:=true controller:=position
+```
+
+Open in another terminal for launching the GUI program:
+cd to the git root folder then
+```shell
+cd WritingRobot
+```
+```shell
+python gui.py
+```
+
+
+## Launch Simplified (Optional)
 To launch the control program:
 ```shell
 ./launch1.txt
@@ -50,6 +76,8 @@ and then open another terminal:
 ```shell
 ./launch2.txt
 ```
+
+
 
 
 <!-- CONTACT -->
