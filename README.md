@@ -22,7 +22,7 @@ Building workspace requires the following tools:
 
 - Git (obviously)
 - ROS Noetic (Desktop-Full Install)
-- Moveit! (Moveit! 1 for Melodic)
+- Moveit! (Moveit! 1 for Noetic)
 - franka_ros
 - libfranka
 
